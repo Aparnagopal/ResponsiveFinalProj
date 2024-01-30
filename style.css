@@ -44,7 +44,6 @@ p {
   border-radius: 4px;
   font-size: 18px;
   line-height: 1.5;
-  text-align: center;
 }
 
 .navigation-links {
@@ -101,4 +100,14 @@ p {
 
 .about-img {
   width: 400px;
+}
+
+#contact {
+  background-color: #f5f3fb;
+  padding: 20px;
+  text-align: center;
+}
+
+#about-mywork {
+  text-align: center;
 }
